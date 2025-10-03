@@ -30,7 +30,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/73ce326c-b7c7-478c-9d19-00efd612e1d9" />
+<div>
+    <a href="https://ezgif.com/optimize/ezgif-472957b4372bcc.gif">
+    </a>
+    <a href="https://ezgif.com/optimize/ezgif-472957b4372bcc.gif">
+      <img style="max-width:300px;" src="https://ezgif.com/optimize/ezgif-472957b4372bcc.gif">
+    </a>
+  </div>
+
 
 
 ## Notes
