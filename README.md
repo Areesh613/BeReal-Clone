@@ -30,13 +30,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div>
-    <a href="https://ezgif.com/optimize/ezgif-472957b4372bcc.gif">
-    </a>
-    <a href="https://ezgif.com/optimize/ezgif-472957b4372bcc.gif">
-      <img style="max-width:300px;" src="https://ezgif.com/optimize/ezgif-472957b4372bcc.gif">
-    </a>
-  </div>
+[![BeReal Clone Pt1](https://www.youtube.com/watch?v=qE1lpnfW-9M/0.jpg)](https://www.youtube.com/watch?v=qE1lpnfW-9M)
 
 
 
