@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[![BeReal Clone Pt1](https://www.youtube.com/watch?v=qE1lpnfW-9M/0.jpg)](https://www.youtube.com/watch?v=qE1lpnfW-9M)
+![Image](https://github.com/user-attachments/assets/c9eb4d3e-241a-449d-b545-2a9f9946ba93)
 
 
 
